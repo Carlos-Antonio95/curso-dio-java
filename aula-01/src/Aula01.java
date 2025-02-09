@@ -9,6 +9,7 @@ public class Aula01 {
 
     }
 
+    //Método com concatenação de string
     public static String nomeCompleto(String primieroNome, String segundoNome){
         return primieroNome.concat(" ").concat(segundoNome);
     }
